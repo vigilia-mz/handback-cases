@@ -68,6 +68,10 @@ inspect score logs/<generation log>.eval --model-role grader=anthropic/<grader> 
 
 Four invented cases and one rater. It shows how the cases, the controls, the rubric and the gaming test fit together. It does not estimate how often any model hands judgment back, and nothing in it should be read as a rate. See `LIMITS.md`.
 
+## Licence
+
+Code (evals/, scripts/, pyproject.toml, requirements.txt) is under Apache-2.0 (LICENSE). Everything else, including the cases, rubric, constructed replies, ratings, results and documentation, is under CC BY 4.0 (LICENSE-CC-BY-4.0).
+
 ## Author
 
 Megi Pishtari. Authorship and the role of AI assistance are stated in `LIMITS.md`.
