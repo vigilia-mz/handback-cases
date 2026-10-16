@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: If you cite this pilot, please cite the version you used.
+title: "Hard Cases for Handing Judgment Back (pilot)"
+abstract: >-
+  A four-case pilot, built in Inspect, testing whether a model notices when a run of
+  individually reasonable requests hands a person's value judgment to it, and returns
+  that judgment while still helping. Two matched pairs: a drift case and a control in
+  which the person would endorse the reliance. A demonstration of method, not a result.
+type: software
+authors:
+  - family-names: Pishtari
+    given-names: Megi
+    orcid: https://orcid.org/0009-0005-3728-1752
+version: 0.1.0
+license:
+  - Apache-2.0
+  - CC-BY-4.0
+keywords:
+  - evaluation
+  - human agency
+  - delegation
+  - Inspect

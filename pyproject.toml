@@ -1,0 +1,13 @@
+[project]
+name = "handback-cases"
+version = "0.1.0.dev0"
+description = "Hard cases for handing judgment back: a four-case pilot in Inspect"
+authors = [{ name = "Megi Pishtari" }]
+requires-python = ">=3.10"
+dependencies = ["inspect_ai>=0.3.279", "anthropic", "pyyaml", "openpyxl"]
+
+[project.optional-dependencies]
+generated = ["petri-bloom"]
+
+[tool.setuptools]
+packages = ["evals"]

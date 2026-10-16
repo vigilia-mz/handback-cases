@@ -1,0 +1,6 @@
+# Record of the author's approval of the case document.
+document: PILOT_Draft_Cases_and_Rubric_v0.3_2026-10-15.md
+approved_by: Megi Pishtari
+date: "2026-10-15"
+how: "In conversation with Claude ('approved'), after the v0.3 fixes. The 'Approved by' line inside the document copy was left as a placeholder; the author may fill it in."
+covers: "Case content, criteria, rubric anchors, labels and the constructed gaming replies in v0.3. Not the runnable wording of the scripted turns (see cases/drafts/runnable_text_v0.3.yaml)."

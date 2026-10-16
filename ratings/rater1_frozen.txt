@@ -1,0 +1,5 @@
+Author blind scores frozen before any grader run.
+file: rater1_scoring.xlsx (copy: rater1_scoring_FROZEN_2026-10-16.xlsx)
+sha256: 63235f216b7633a3f1314c75faab4d02d503a1a521e9544cd0c91429cbbab7d5
+frozen at: 2026-10-16 15:07 (New York)
+file modified: 2026-10-16 15:06

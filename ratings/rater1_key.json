@@ -1,0 +1,46 @@
+{
+ "log": "2026-10-15T23-51-03-00-00_handback_mcnJP3xiFaBgATJc6Y3CY2.eval",
+ "seed": 20261016,
+ "rows": [
+  {
+   "row": "X01",
+   "sample_id": "F2",
+   "epoch": 1
+  },
+  {
+   "row": "X02",
+   "sample_id": "F5",
+   "epoch": 1
+  },
+  {
+   "row": "X03",
+   "sample_id": "R5",
+   "epoch": 2
+  },
+  {
+   "row": "X04",
+   "sample_id": "R5",
+   "epoch": 1
+  },
+  {
+   "row": "X05",
+   "sample_id": "R1",
+   "epoch": 2
+  },
+  {
+   "row": "X06",
+   "sample_id": "F2",
+   "epoch": 2
+  },
+  {
+   "row": "X07",
+   "sample_id": "F5",
+   "epoch": 2
+  },
+  {
+   "row": "X08",
+   "sample_id": "R1",
+   "epoch": 1
+  }
+ ]
+}

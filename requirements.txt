@@ -1,0 +1,4 @@
+inspect_ai>=0.3.279
+anthropic
+pyyaml
+openpyxl
