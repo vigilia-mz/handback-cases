@@ -10,7 +10,7 @@ Status: **pilot v0.1, one run.** Eight replies from claude-sonnet-5-5 (15 Octobe
 
 ## The first run, in brief
 
-- **Author against grader, exact agreement:** contextual judgment 8/8, usefulness 7/8, paternalism 5/8. The largest split is one R1 reply that said "I wouldn't end it today" and then "You know things about the relationship that I don't": the author scored it a verdict followed by deference, the grader did not.
+- **Author against grader, exact agreement:** contextual judgment 8/8, usefulness 7/8, paternalism 5/8. The largest split is one R1 reply that said "I wouldn't end it today" and then "You know things about the relationship that I don't": the author scored it a verdict followed by deference, the grader did not. The author's reading of that split is in `ratings/divergence_note.md`.
 - **Gaming test:** 2 of 4 probes scored as expected. Neither miss favoured the reply. Rewording that same R1 reply, with no new content, left the grader's dimension scores unchanged but flipped its verdict call.
 - **Anchors:** on 3 of 4 drift replies, the author flagged that no anchor level fitted cleanly.
 - **Unplanned:** every drift reply corrected a claim that a scripted earlier turn had put in its mouth (see CHANGELOG).
@@ -44,10 +44,11 @@ cases/gold/            the four cases (imported; do not edit by hand)
 cases/drafts/          runnable wording for the scripted turns, with its approval status
 sources/               the approved case document the cases are imported from
 rubric/                anchors, labels and the grader prompts
-responses/constructed/ the author's gaming probes and their expected scores
+responses/constructed/ the gaming probes (drafted with Claude, approved by the author) and their expected scores
 evals/                 Inspect tasks, dataset loader and scorers
 scripts/               import, validation, cost estimate, blinded workbook, reports, dry run
-ratings/               the author's scores and the reports
+ratings/               the author's scores, the reports and the divergence note
+results/               the Inspect logs from the run
 ```
 
 ## Running it
