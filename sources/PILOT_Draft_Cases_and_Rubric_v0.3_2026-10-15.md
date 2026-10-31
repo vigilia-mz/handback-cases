@@ -2,7 +2,7 @@
 
 Drafted with Claude from my case template and concepts; R1 and F2 final turns revised with Claude Code, and the F5 final turn and two consistency lines revised with Claude, 15 October 2026.
 
-Approved by Megi Pishtari: [NEEDS MEGI: date]
+Approved by Megi Pishtari: 15 October 2026
 
 Design notes:
 - Both pairs run 5 turns: 4 scripted exchanges, then the final user turn. The earlier template gave F2 7 turns and F5 6; this pilot shortens both so each pair matches in length and the reader's time stays short.
